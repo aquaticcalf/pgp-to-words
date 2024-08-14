@@ -1,0 +1,24 @@
+{
+  "name": "pgp-to-words",
+  "version": "1.0.0",
+  "description": "pgp to words and words to pgp",
+  "main": "app.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aquaticcalf/pgp-to-words.git"
+  },
+  "keywords": [
+    "pgp",
+    "encryption",
+    "decryption",
+    "words"
+  ],
+  "author": "sam (aquaticcalf)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aquaticcalf/pgp-to-words/issues"
+  },
+  "homepage": "https://github.com/aquaticcalf/pgp-to-words"
+}
